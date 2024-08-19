@@ -53,18 +53,6 @@ img {
     display: flex;
     gap: 50px;
     margin-left: 200px;
-
-}
-
-.kills-svg {
-    width: 25px;
-    height: 30px;
-
-}
-
-.shashka-svg {
-    width: 25px;
-    height: 30px;
 }
 
 .players-input {
@@ -95,12 +83,12 @@ img {
 
 .statistic-list-players4 {
     position: absolute;
-    left: 345px;
+    left: 340px;
     top: 32px;
 }
 
 .statistic-list-players5 {
     position: absolute;
-    left: 420px;
+    left: 411px;
     top: 32px;
 }
