@@ -1,0 +1,106 @@
+h1,
+h2,
+h3,
+h4,
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.logo {
+    margin-right: 93px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+.statistic-container {
+    position: relative;
+}
+
+.statistic-list-svg {
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+
+}
+
+.kills-svg {
+    width: 30px;
+    height: 30px;
+
+}
+
+.shashka-svg {
+    width: 30px;
+    height: 30px;
+}
+
+.players-input {
+    width: 70px;
+    border-radius: none;
+
+}
+
+.statistic-list-players2 {
+
+    position: absolute;
+    left: 200px;
+    top: 32px;
+
+}
+
+.players-input2 {
+    width: 13px;
+    border: none;
+    background-color: aquamarine;
+}
+
+.statistic-list-players3 {
+    position: absolute;
+    left: 270px;
+    top: 32px;
+}
+
+.statistic-list-players4 {
+    position: absolute;
+    left: 345px;
+    top: 32px;
+}
+
+.statistic-list-players5 {
+    position: absolute;
+    left: 420px;
+    top: 32px;
+}
